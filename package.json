@@ -1,0 +1,27 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tsconfig.js",
+  "scripts": {
+    "iterator": "",
+    "adapter": "",
+    "templateMethod": "",
+    "factoryMethod": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugall/design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugall/design-patterns/issues"
+  },
+  "homepage": "https://github.com/bugall/design-patterns#readme",
+  "dependencies": {
+    "ts-node": "^3.1.0",
+    "typescript": "^2.4.1"
+  }
+}
